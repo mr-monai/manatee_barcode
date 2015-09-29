@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.4
+apiversion: 2
+description: Manatee Works Barcode Scanner SDK API for Titanium Developers
+author: Vladimir Zivkovic
+license: Commercial
+copyright: Manateeworks 2013
+
+
+# these should not be edited
+name: mwbarcodescanner_ios
+moduleid: com.manateeworks.barcodescanner
+guid: cbb43234-dbfa-4fe4-b116-f8a97632760c
+platform: iphone
+minsdk: 3.1.0.GA

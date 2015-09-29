@@ -1,0 +1,43 @@
+1.0.10
+- Decoder lib updated to 2.10.2 (minor fixes)
+
+
+1.0.8
+
+- Multithreading support
+- Added zoom feature
+
+
+1.0.7
+- 64bit support
+- UPC-E1 support
+- Aztec decoder tuning
+- Databar Expanded decoder tuning 
+- Mirrored QR support
+- GS1 128 includes FNC1 identifiers 
+
+1.0.6
+- Added ITF-14 support
+- Added Code 11 support
+- Added MSI Plessey support
+- GS1 support
+
+1.0.5
+- skipped
+
+1.0.4
+
+- Dotcode support
+- Decoder and UI fixes 
+
+1.0.3
+
+- The license input method is now from Javascript code so there's no longer a need to re-compile the module when a user wants to input a valid license
+
+1.0.1 - 1.0.2
+
+- Minor decoder fixes
+
+1.0
+
+- First released version

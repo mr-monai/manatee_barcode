@@ -1,0 +1,17 @@
+
+1.0.4
+
+- Added DotCode 2D barcode support
+- Decoder and UI fixes 
+
+1.0.3
+
+- The license input method is now from Javascript code so there's no longer a need to re-compile the module when a user wants to input a valid license
+
+1.0.1 - 1.0.2
+
+- Minor decoder fixes
+
+1.0
+
+- First released version
